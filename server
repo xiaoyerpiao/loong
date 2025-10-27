@@ -1,1 +1,5 @@
 jxjxjxbdbdbdbxbbxjxx
+https://github.com/PixelOS-Devices/kernel_oneplus_sm8650/archive/refs/heads/fifteen.zip
+
+
+ ./kptools-linux -p --image kernel-b --skey "1234" --kpimg kpimg-android --out kernel
